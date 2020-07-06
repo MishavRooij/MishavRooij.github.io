@@ -1,0 +1,63 @@
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f1faff;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #f1faff;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#Supreme">Supreme</a></li>
+  <li><a href="#Palace">Palace</a></li>
+  <li><a href="#Yeezy">Yeezy</a></li>
+  <li><a href="#All">All</a></li>
+</ul>
+
+<center><h1>The Supremenewyork Items</h1> </center>
+ 
+<img src="https://robbreportedit.files.wordpress.com/2020/04/supreme-takashi-murakami-tshirt-02.jpg?w=660" width="1000" height="600">
+
+
+<h2>The Supreme motion logo t-shirt </h2>
+<h3>Color: black <h3>
+<h3>Size: Small </h3>
+
+<img src="https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-Black.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&trim=color&updated_at=1593723864&w=1000" width="300" height="200">
+
+
+<h1>€119,99 </h1>
+<button type="button">Buy now!</button>
+
+<hr>
+
+<h2>The Supreme Lizard tee </h2>
+<h3>Color: black <h3>
+<h3>Size: Large </h3>
+
+
+<img src="https://stockx.imgix.net/products/streetwear/Supreme-Lizard-Tee-Black.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&trim=color&updated_at=1593709072&w=1000" width="300" height="200">
+<h1>€99,99 </h1>
+
+<button type="button">Buy now!</button>
