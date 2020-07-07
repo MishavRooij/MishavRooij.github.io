@@ -1,6 +1,49 @@
-y items will be availeble on in GAP stores and there wel be collabed clothing.
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f1faff;
+}
 
-Kayne West also said in a tweet that he wants to run for president.
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #f1faff;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#Supreme">Supreme</a></li>
+  <li><a href="#Palace">Palace</a></li>
+  <li><a href="#Yeezy">Yeezy</a></li>
+  <li><a href="#All">All</a></li>
+</ul>
+
+<center><h1>The adidas Yeezy Items</h1> </center>
+ 
+<img src="https://assets.teenvogue.com/photos/5ef600bc2f626ed22086f173/master/w_4583,h_2579,c_limit/story-yeezy-gap.jpg" width="1000" height="600">
+
+<h2> BIG NEWS!! 
+Kanye West has decided to get a minor collab with the clothing brand GAP, some of the Yeezy items will be available on in GAP stores and there will be collabed clothing.
+
+Kanye West also said in a tweet that he wants to run for president.
 <img src="https://pbs.twimg.com/media/EcIHWExXQAAYcov.jpg" width="400" height="400">
 
 
