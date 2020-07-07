@@ -29,10 +29,10 @@ li a:hover {
 <body>
 
 <ul>
-  <li><a href="mishavrooij.github.io/supremetab.html">Supreme</a></li>
-  <li><a href="#Palace">Palace</a></li>
-  <li><a href="#Yeezy">Yeezy</a></li>
-  <li><a href="#All">All</a></li>
+  <li><a href= "Supremetab.html">Supreme</a></li>  
+  <li><a href= "Palacetab.html">Palace</a></li>
+  <li><a href= "Yeezytab.html">Yeezy</a></li>
+  <li><a href= "Alltab.html">All</a></li>
 </ul>
 
 <center><h1>The Supremenewyork Items</h1> </center>
